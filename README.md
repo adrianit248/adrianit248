@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm a frontend developer with a background outside of tech and a fresh perspective on building intuitive, accessible web experiences. I recently completed a rigorous frontend development bootcamp, where I honed my skills in HTML, CSS, JavaScript, and React.
+I'm a frontend developer with a background outside of tech and a fresh perspective on building intuitive, accessible web experiences. I am continually growing my skills in HTML, CSS, JavaScript, and React, and look forward to adding new tools to my arsenal.
 
 I'm passionate about turning designs into clean, responsive, and interactive interfaces, and always eager to learn new tools and best practices along the way.
 
