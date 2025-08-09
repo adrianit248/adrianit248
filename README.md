@@ -9,7 +9,7 @@ I'm a frontend developer with a background outside of tech and a fresh perspecti
 I'm passionate about turning designs into clean, responsive, and interactive interfaces, and always eager to learn new tools and best practices along the way.
 
 * 🌍  I'm based in North Carolina
-* 🖥️  See my portfolio at [My Portfolio](http://eportfolio-build.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://adrian-portfolio-blond-six.vercel.app/)
 * ✉️  You can contact me at [adrianit248@gmail.com](mailto:adrianit248@gmail.com)
 * 🚀  I'm currently working on [Skinstric Internship](http://skinstric-project-gamma.vercel.app/)
 * 🧠  I'm learning tailwind css, and deepening my understanding of React best practices
